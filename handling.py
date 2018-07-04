@@ -22,3 +22,5 @@ except Exception as e:
 #     print("file not found")
 # except  :
     # print("Divided ny zerooo")
+    
+# we edit it here just for fun
